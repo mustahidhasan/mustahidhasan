@@ -1,12 +1,12 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mustahid%20Hasan&fontSize=58&fontAlignY=38&fontColor=ffffff&desc=Python%20Backend%20Engineer&descAlignY=58&descSize=22&descColor=d1d5db&animation=fadeIn&color=0:0f172a,50:1e293b,100:0f766e"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mustahid%20Hasan&fontSize=58&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Python%20Backend%20%2B%20TypeScript%20Frontend&descAlignY=58&descSize=19&descColor=d1d5db&animation=fadeIn&color=0:0f172a,50:1e293b,100:0f766e"
   width="100%"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=700&center=true&vCenter=true&width=760&color=22D3EE&lines=Python+%E2%80%A2+Django+%E2%80%A2+FastAPI;REST+APIs+%E2%80%A2+Automation+%E2%80%A2+Data+Pipelines;PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+Celery;Building+Reliable+Production+Systems"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2300&pause=700&center=true&vCenter=true&width=760&color=22D3EE&lines=Python+Backend+%E2%80%A2+TypeScript+Frontend;Django+%E2%80%A2+FastAPI+%E2%80%A2+React;REST+APIs+%E2%80%A2+Automation+%E2%80%A2+AI;Building+Reliable+Full+Stack+Systems"
   alt="Typing SVG"
 />
 
@@ -16,13 +16,13 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:mustahidhasan9@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-mustahidhasan9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://bit.ly/mustahidhasan">
   <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+📧 **mustahidhasan9@gmail.com**
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-### 👨‍💻 Python Backend Engineer with 3+ years of experience building production APIs, automation systems, data pipelines, and AI-powered applications.
+### Full Stack Developer focused on **Python backend** and **TypeScript frontend**, building production APIs, automation systems, data pipelines, and AI-powered applications.
 
 </div>
 
@@ -46,6 +46,8 @@
 
 `Python` `Django` `DRF` `FastAPI` `PostgreSQL` `Redis` `Celery` `Pandas`
 
+`React` `TypeScript` `Docker` `AWS`
+
 </div>
 
 ---
@@ -59,9 +61,9 @@
 
 ### 🧠 RAG System
 
-Document ingestion, vector search, semantic retrieval, caching, and LLM-powered responses.
+Document ingestion, semantic retrieval, caching, and LLM-powered responses.
 
-`FastAPI` `PostgreSQL` `Redis` `Vector DB`
+`FastAPI` `PostgreSQL` `Redis` `React`
 
 </td>
 
@@ -69,7 +71,7 @@ Document ingestion, vector search, semantic retrieval, caching, and LLM-powered 
 
 ### 🏢 Corporate CMS
 
-Production multilingual CMS with admin workflows, authentication, Salesforce integration, and deployment support.
+Production multilingual CMS with admin workflows, authentication, Salesforce integration, and frontend/backend delivery.
 
 `Next.js` `TypeScript` `PostgreSQL` `Salesforce`
 
@@ -83,7 +85,7 @@ Production multilingual CMS with admin workflows, authentication, Salesforce int
 
 ### 📊 Competitors Ads Analysis AI
 
-Automated advertising-data collection, processing, classification, and analytics.
+Automated collection, processing, classification, and analytics of advertising data.
 
 `Python` `Django` `Pandas` `Selenium`
 
@@ -93,7 +95,7 @@ Automated advertising-data collection, processing, classification, and analytics
 
 ### 🌐 Network Management System
 
-Network diagnostics and monitoring for Ping, DNS, SNMP, and Traceroute.
+Network monitoring and diagnostics using Ping, DNS, SNMP, and Traceroute.
 
 `Python` `PostgreSQL` `Docker` `AWS`
 
@@ -107,8 +109,8 @@ Network diagnostics and monitoring for Ping, DNS, SNMP, and Traceroute.
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&center=true&vCenter=true&width=700&color=22D3EE&lines=Currently+building+reliable+backend+systems;Exploring+AI-powered+automation;Improving+data-processing+workflows;Shipping+production-ready+software"
-  alt="Current focus"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&center=true&vCenter=true&width=720&color=22D3EE&lines=Python+Backend+Engineering;TypeScript+Frontend+Development;Automation+%2B+AI+Systems;Production-ready+Full+Stack+Software"
+  alt="Focus"
 />
 
 </div>
@@ -133,17 +135,13 @@ Springer · 2023
 
 <div align="center">
 
-### Building reliable backend systems, automation, and AI-powered software.
+### Building reliable full stack systems with Python and TypeScript.
 
-<br/>
-
-<a href="mailto:mustahidhasan9@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mustahidhasan9%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+📧 **mustahidhasan9@gmail.com**
 
 <br/><br/>
 
-**Python • Backend • APIs • Automation • AI • Cloud**
+**Python • Backend • TypeScript • Frontend • APIs • AI • Cloud**
 
 <br/><br/>
 
