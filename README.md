@@ -1,18 +1,18 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mustahid%20Hasan&fontSize=56&fontAlignY=38&desc=Python%20Backend%20Engineer&descAlignY=58&animation=fadeIn&color=0:0f2027,50:203a43,100:2c5364"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mustahid%20Hasan&fontSize=58&fontAlignY=38&fontColor=ffffff&desc=Python%20Backend%20Engineer&descAlignY=58&descSize=22&descColor=d1d5db&animation=fadeIn&color=0:0f172a,50:1e293b,100:0f766e"
   width="100%"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=700&center=true&vCenter=true&width=760&lines=Python+%E2%80%A2+Django+%E2%80%A2+FastAPI;REST+APIs+%E2%80%A2+Automation+%E2%80%A2+Data+Pipelines;PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+Celery;Building+Reliable+Production+Systems"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=700&center=true&vCenter=true&width=760&color=22D3EE&lines=Python+%E2%80%A2+Django+%E2%80%A2+FastAPI;REST+APIs+%E2%80%A2+Automation+%E2%80%A2+Data+Pipelines;PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+Celery;Building+Reliable+Production+Systems"
   alt="Typing SVG"
 />
 
 <br/><br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/mustahid-hasan-8800851a9">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://bit.ly/mustahidhasan">
   <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -157,6 +157,12 @@ Network monitoring and diagnostics using Ping, DNS, SNMP, and Traceroute with re
 ### An LSTM-Based Word Prediction in Bengali
 **Springer · 2023**
 
+<a href="https://link.springer.com/chapter/10.1007/978-981-19-4960-9_70">
+View Publication
+</a>
+
+<br/><br/>
+
 ### Advanced NLP for High-Quality Text-To-Speech Synthesis
 **2021**
 
@@ -166,7 +172,7 @@ Network monitoring and diagnostics using Ping, DNS, SNMP, and Traceroute with re
 
 <div align="center">
 
-### Building reliable backend systems, automation, and AI-powered software.
+### 🚀 Building reliable backend systems, automation, and AI-powered software.
 
 <br/>
 
@@ -176,12 +182,26 @@ Network monitoring and diagnostics using Ping, DNS, SNMP, and Traceroute with re
 
 <br/><br/>
 
+<a href="https://linkedin.com/in/mustahid-hasan-8800851a9">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mustahidhasan9@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://bit.ly/mustahidhasan">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
 **Python • Backend • APIs • Automation • AI • Cloud**
 
 <br/><br/>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f2027,50:203a43,100:2c5364"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,50:1e293b,100:0f766e"
   width="100%"
 />
 
