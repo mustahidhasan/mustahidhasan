@@ -17,7 +17,7 @@
 </a>
 
 <a href="mailto:mustahidhasan9@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-mustahidhasan9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://bit.ly/mustahidhasan">
@@ -30,11 +30,7 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
-
-**Python Backend Engineer with 3+ years of experience** building REST APIs, backend services, data-processing pipelines, automation systems, and AI-powered applications.
-
-I work mainly with **Python, Django, DRF, FastAPI, PostgreSQL, Redis, Celery, Pandas, React, TypeScript, Docker, and AWS**.
+### 👨‍💻 Python Backend Engineer with 3+ years of experience building production APIs, automation systems, data pipelines, and AI-powered applications.
 
 </div>
 
@@ -50,8 +46,6 @@ I work mainly with **Python, Django, DRF, FastAPI, PostgreSQL, Redis, Celery, Pa
 
 `Python` `Django` `DRF` `FastAPI` `PostgreSQL` `Redis` `Celery` `Pandas`
 
-`React` `TypeScript` `Docker` `AWS` `REST APIs` `CI/CD`
-
 </div>
 
 ---
@@ -65,11 +59,9 @@ I work mainly with **Python, Django, DRF, FastAPI, PostgreSQL, Redis, Celery, Pa
 
 ### 🧠 RAG System
 
-Document ingestion, preprocessing, semantic retrieval, caching, and LLM-powered responses.
+Document ingestion, vector search, semantic retrieval, caching, and LLM-powered responses.
 
-**Stack**
-
-`FastAPI` `PostgreSQL` `Redis` `Pandas` `Vector DB` `React` `TypeScript`
+`FastAPI` `PostgreSQL` `Redis` `Vector DB`
 
 </td>
 
@@ -77,11 +69,9 @@ Document ingestion, preprocessing, semantic retrieval, caching, and LLM-powered 
 
 ### 🏢 Corporate CMS
 
-Production CMS with content management, localization, authentication, admin workflows, REST integrations, and Salesforce lead processing.
+Production multilingual CMS with admin workflows, authentication, Salesforce integration, and deployment support.
 
-**Stack**
-
-`Next.js` `TypeScript` `PostgreSQL` `REST API` `Salesforce` `Docker`
+`Next.js` `TypeScript` `PostgreSQL` `Salesforce`
 
 </td>
 
@@ -93,11 +83,9 @@ Production CMS with content management, localization, authentication, admin work
 
 ### 📊 Competitors Ads Analysis AI
 
-Automated competitor advertising data collection, parsing, validation, transformation, classification, and analytics.
+Automated advertising-data collection, processing, classification, and analytics.
 
-**Stack**
-
-`Python` `Django` `Pandas` `Selenium` `PostgreSQL` `React`
+`Python` `Django` `Pandas` `Selenium`
 
 </td>
 
@@ -105,11 +93,9 @@ Automated competitor advertising data collection, parsing, validation, transform
 
 ### 🌐 Network Management System
 
-Network monitoring and diagnostics using Ping, DNS, SNMP, and Traceroute with reporting and dashboard APIs.
+Network diagnostics and monitoring for Ping, DNS, SNMP, and Traceroute.
 
-**Stack**
-
-`Python` `PostgreSQL` `Docker` `AWS` `React` `TypeScript`
+`Python` `PostgreSQL` `Docker` `AWS`
 
 </td>
 
@@ -120,51 +106,26 @@ Network monitoring and diagnostics using Ping, DNS, SNMP, and Traceroute with re
 
 <div align="center">
 
-## ⚙️ Engineering Focus
-
-<br/>
-
-`Backend Engineering`
-&nbsp; • &nbsp;
-`REST APIs`
-&nbsp; • &nbsp;
-`Automation`
-
-<br/><br/>
-
-`Data Processing`
-&nbsp; • &nbsp;
-`Background Jobs`
-&nbsp; • &nbsp;
-`AI Systems`
-
-<br/><br/>
-
-`Docker`
-&nbsp; • &nbsp;
-`AWS`
-&nbsp; • &nbsp;
-`Production Troubleshooting`
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&center=true&vCenter=true&width=700&color=22D3EE&lines=Currently+building+reliable+backend+systems;Exploring+AI-powered+automation;Improving+data-processing+workflows;Shipping+production-ready+software"
+  alt="Current focus"
+/>
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 📚 Research
 
-### An LSTM-Based Word Prediction in Bengali
-**Springer · 2023**
+<div align="center">
 
-<a href="https://link.springer.com/chapter/10.1007/978-981-19-4960-9_70">
-View Publication
-</a>
+**An LSTM-Based Word Prediction in Bengali**  
+Springer · 2023
 
 <br/><br/>
 
-### Advanced NLP for High-Quality Text-To-Speech Synthesis
-**2021**
+**Advanced NLP for High-Quality Text-To-Speech Synthesis**  
+2021
 
 </div>
 
@@ -172,26 +133,12 @@ View Publication
 
 <div align="center">
 
-### 🚀 Building reliable backend systems, automation, and AI-powered software.
+### Building reliable backend systems, automation, and AI-powered software.
 
 <br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=mustahidhasan&style=for-the-badge&label=PROFILE+VIEWS"
-/>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/mustahid-hasan-8800851a9">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="mailto:mustahidhasan9@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://bit.ly/mustahidhasan">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-mustahidhasan9%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
