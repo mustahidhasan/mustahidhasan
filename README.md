@@ -1,15 +1,18 @@
 <div align="center">
 
-# 👋 Hi, I'm Mustahid Hasan
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mustahid%20Hasan&fontSize=56&fontAlignY=38&desc=Python%20Backend%20Engineer&descAlignY=58&animation=fadeIn&color=0:0f2027,50:203a43,100:2c5364"
+  width="100%"
+/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2400&pause=700&center=true&vCenter=true&width=750&lines=Python+Backend+Engineer;Django+%7C+FastAPI+%7C+PostgreSQL;Automation+%7C+Data+%7C+AI;Building+Reliable+Production+Systems"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=700&center=true&vCenter=true&width=760&lines=Python+%E2%80%A2+Django+%E2%80%A2+FastAPI;REST+APIs+%E2%80%A2+Automation+%E2%80%A2+Data+Pipelines;PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+Celery;Building+Reliable+Production+Systems"
   alt="Typing SVG"
 />
 
-<br/>
+<br/><br/>
 
-<a href="YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -17,23 +20,39 @@
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,react,typescript,docker,aws,git" />
 
 </div>
 
 ---
 
-## ⚡ About
+<div align="center">
 
-Python Backend Engineer with **3+ years of experience** building REST APIs, automation systems, data-processing pipelines, and AI-powered applications.
+## 👨‍💻 About Me
+
+**Python Backend Engineer with 3+ years of experience** building REST APIs, backend services, data-processing pipelines, automation systems, and AI-powered applications.
+
+I work mainly with **Python, Django, DRF, FastAPI, PostgreSQL, Redis, Celery, Pandas, React, TypeScript, Docker, and AWS**.
+
+</div>
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,react,typescript,docker,aws,git" />
+
+<br/><br/>
 
 `Python` `Django` `DRF` `FastAPI` `PostgreSQL` `Redis` `Celery` `Pandas`
+
+`React` `TypeScript` `Docker` `AWS` `REST APIs` `CI/CD`
+
+</div>
 
 ---
 
@@ -41,45 +60,91 @@ Python Backend Engineer with **3+ years of experience** building REST APIs, auto
 
 <table>
 <tr>
-<td width="33%">
 
-### 🤖 RAG System
-Document ingestion, semantic retrieval and LLM-powered responses.
+<td width="50%" valign="top">
 
-`FastAPI` `Redis` `PostgreSQL`
+### 🧠 RAG System
 
-</td>
+Document ingestion, preprocessing, semantic retrieval, caching, and LLM-powered responses.
 
-<td width="33%">
+**Stack**
 
-### 📊 Ads Analysis AI
-Automated collection, processing and analysis of competitor advertising data.
-
-`Django` `Pandas` `Selenium`
+`FastAPI` `PostgreSQL` `Redis` `Pandas` `Vector DB` `React` `TypeScript`
 
 </td>
 
-<td width="33%">
+<td width="50%" valign="top">
 
-### 🌐 Network System
-Monitoring and diagnostics using Ping, DNS, SNMP and Traceroute.
+### 🏢 Corporate CMS
 
-`Python` `AWS` `Docker`
+Production CMS with content management, localization, authentication, admin workflows, REST integrations, and Salesforce lead processing.
+
+**Stack**
+
+`Next.js` `TypeScript` `PostgreSQL` `REST API` `Salesforce` `Docker`
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Competitors Ads Analysis AI
+
+Automated competitor advertising data collection, parsing, validation, transformation, classification, and analytics.
+
+**Stack**
+
+`Python` `Django` `Pandas` `Selenium` `PostgreSQL` `React`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Network Management System
+
+Network monitoring and diagnostics using Ping, DNS, SNMP, and Traceroute with reporting and dashboard APIs.
+
+**Stack**
+
+`Python` `PostgreSQL` `Docker` `AWS` `React` `TypeScript`
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 📈 Activity
-
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=mustahidhasan&theme=github-dark&hide_border=true&area=true"
-  width="100%"
-/>
+## ⚙️ Engineering Focus
+
+<br/>
+
+`Backend Engineering`
+&nbsp; • &nbsp;
+`REST APIs`
+&nbsp; • &nbsp;
+`Automation`
+
+<br/><br/>
+
+`Data Processing`
+&nbsp; • &nbsp;
+`Background Jobs`
+&nbsp; • &nbsp;
+`AI Systems`
+
+<br/><br/>
+
+`Docker`
+&nbsp; • &nbsp;
+`AWS`
+&nbsp; • &nbsp;
+`Production Troubleshooting`
 
 </div>
 
@@ -87,12 +152,23 @@ Monitoring and diagnostics using Ping, DNS, SNMP and Traceroute.
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=mustahidhasan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-  width="95%"
-/>
+## 📚 Research
 
-<br/><br/>
+### An LSTM-Based Word Prediction in Bengali
+**Springer · 2023**
+
+### Advanced NLP for High-Quality Text-To-Speech Synthesis
+**2021**
+
+</div>
+
+---
+
+<div align="center">
+
+### Building reliable backend systems, automation, and AI-powered software.
+
+<br/>
 
 <img
   src="https://komarev.com/ghpvc/?username=mustahidhasan&style=for-the-badge&label=PROFILE+VIEWS"
@@ -100,6 +176,13 @@ Monitoring and diagnostics using Ping, DNS, SNMP and Traceroute.
 
 <br/><br/>
 
-### `Backend • APIs • Automation • AI • Cloud`
+**Python • Backend • APIs • Automation • AI • Cloud**
+
+<br/><br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f2027,50:203a43,100:2c5364"
+  width="100%"
+/>
 
 </div>
